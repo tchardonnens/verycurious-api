@@ -12,6 +12,10 @@ pymongo = "^4.6.0"
 llama-index = "<3.12"
 uvicorn = {extras = ["standard"], version = "^0.24.0"}
 python-multipart = "^0.0.6"
+pypdf = "^3.17.0"
+openai = "^0.28.1"
+python-dotenv = "^1.0.0"
+notion = "^0.0.28"
 
 
 [build-system]
